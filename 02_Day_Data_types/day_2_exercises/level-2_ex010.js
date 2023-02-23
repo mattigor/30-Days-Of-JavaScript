@@ -3,4 +3,4 @@
 const js = "JavaScript";
 let randNum = Math.random() * js.length;
 
-console.log(`Random letter: ${js.charAt(randNum)}`);
+console.log(`Random letter: ${js.charAt(randNum)}.`);
