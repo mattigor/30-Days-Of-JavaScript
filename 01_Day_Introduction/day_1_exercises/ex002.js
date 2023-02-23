@@ -1,3 +1,3 @@
-// Write another single comment which says, Welcome to 30DaysOfJavaScript
+// 2. Write another single comment which says, Welcome to 30DaysOfJavaScript
 
 // Welcome to 30DaysOfJavaScript
